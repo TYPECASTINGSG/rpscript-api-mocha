@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "ramda": "^0.25.0",
-    "rpscript-interface": "^0.2.5"
+    "rpscript-interface": "^0.5.3"
   },
   "devDependencies": {
     "@types/chai": "^4.1.4",
